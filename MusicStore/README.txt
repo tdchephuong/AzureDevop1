@@ -1,0 +1,1 @@
+Type user/Password-2 to login as a normal user and admin/Password-1 to login as an admin.
